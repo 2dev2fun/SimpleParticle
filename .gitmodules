@@ -1,0 +1,6 @@
+[submodule "modules/SimpleMath"]
+	path = modules/SimpleMath
+	url = https://github.com/2dev2fun/SimpleMath.git
+[submodule "modules/glfw"]
+	path = modules/glfw
+	url = https://github.com/glfw/glfw.git

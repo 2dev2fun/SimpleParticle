@@ -1,0 +1,4 @@
+-Iinclude
+-Ilibrary/glad/include
+-Imodules/glfw/include
+-Imodules/SimpleMath/include
